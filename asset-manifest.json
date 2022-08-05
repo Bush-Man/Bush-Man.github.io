@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51cf2860.css",
-    "main.js": "/static/js/main.19aa3658.js",
+    "main.css": "/static/css/main.b13967d8.css",
+    "main.js": "/static/js/main.08cacc91.js",
     "static/media/B2C1.jpg": "/static/media/B2C1.4cb0e3df4853312dff65.jpg",
     "static/media/Errands Girl.webp": "/static/media/Errands Girl.1b8ccefbd62940f48c9c.webp",
     "static/media/B2B.jpg": "/static/media/B2B.8b9420658f2f42429ed1.jpg",
@@ -12,14 +12,14 @@
     "static/media/1_Instagram_colored_svg_1-128.webp": "/static/media/1_Instagram_colored_svg_1-128.16139911489c9dc089ee.webp",
     "static/media/1_Youtube_colored_svg-512.webp": "/static/media/1_Youtube_colored_svg-512.6efd370dfa855a20fc16.webp",
     "static/media/1_Twitter_colored_svg-128.webp": "/static/media/1_Twitter_colored_svg-128.cff9c1041e1553691741.webp",
-    "index.html": "/index.html",
     "static/media/56-linkedin-128.webp": "/static/media/56-linkedin-128.45a9f44e225fe2cee17b.webp",
+    "index.html": "/index.html",
     "static/media/1_Facebook2_colored_svg-128.webp": "/static/media/1_Facebook2_colored_svg-128.a9f224e741cf5128ae5c.webp",
-    "main.51cf2860.css.map": "/static/css/main.51cf2860.css.map",
-    "main.19aa3658.js.map": "/static/js/main.19aa3658.js.map"
+    "main.b13967d8.css.map": "/static/css/main.b13967d8.css.map",
+    "main.08cacc91.js.map": "/static/js/main.08cacc91.js.map"
   },
   "entrypoints": [
-    "static/css/main.51cf2860.css",
-    "static/js/main.19aa3658.js"
+    "static/css/main.b13967d8.css",
+    "static/js/main.08cacc91.js"
   ]
 }
