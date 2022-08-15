@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba625078.css",
-    "main.js": "/static/js/main.41db5711.js",
+    "main.css": "/static/css/main.d2d15580.css",
+    "main.js": "/static/js/main.dbbfed38.js",
     "static/media/B2C1.jpg": "/static/media/B2C1.4cb0e3df4853312dff65.jpg",
     "static/media/Errands Girl.webp": "/static/media/Errands Girl.1b8ccefbd62940f48c9c.webp",
     "static/media/B2B.jpg": "/static/media/B2B.8b9420658f2f42429ed1.jpg",
@@ -15,11 +15,11 @@
     "index.html": "/index.html",
     "static/media/56-linkedin-128.webp": "/static/media/56-linkedin-128.45a9f44e225fe2cee17b.webp",
     "static/media/1_Facebook2_colored_svg-128.webp": "/static/media/1_Facebook2_colored_svg-128.a9f224e741cf5128ae5c.webp",
-    "main.ba625078.css.map": "/static/css/main.ba625078.css.map",
-    "main.41db5711.js.map": "/static/js/main.41db5711.js.map"
+    "main.d2d15580.css.map": "/static/css/main.d2d15580.css.map",
+    "main.dbbfed38.js.map": "/static/js/main.dbbfed38.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba625078.css",
-    "static/js/main.41db5711.js"
+    "static/css/main.d2d15580.css",
+    "static/js/main.dbbfed38.js"
   ]
 }
