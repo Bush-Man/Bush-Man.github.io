@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe2cc23c.css",
-    "main.js": "/static/js/main.0f5ba76a.js",
-    "static/media/Profile.jpg": "/static/media/Profile.69f52696dc5eeee595f1.jpg",
-    "static/media/react.png": "/static/media/react.2fb163a999bdd4b8cc97.png",
+    "main.css": "/static/css/main.d2d15580.css",
+    "main.js": "/static/js/main.824bc513.js",
+    "static/media/B2C1.jpg": "/static/media/B2C1.4cb0e3df4853312dff65.jpg",
+    "static/media/Errands Girl.webp": "/static/media/Errands Girl.1b8ccefbd62940f48c9c.webp",
+    "static/media/B2B.jpg": "/static/media/B2B.8b9420658f2f42429ed1.jpg",
+    "static/media/phone mockup.webp": "/static/media/phone mockup.807d9e209da714085a10.webp",
+    "static/media/young woman.jpg": "/static/media/young woman.fba91c600355ced28356.jpg",
+    "static/media/Drop and Pickup.jpg": "/static/media/Drop and Pickup.e808d83dbfaeb1566042.jpg",
+    "static/media/hotel.avif": "/static/media/hotel.9114802d3c9ffbba4d26.avif",
     "static/media/Ig.webp": "/static/media/Ig.16139911489c9dc089ee.webp",
     "static/media/Youtube.webp": "/static/media/Youtube.6efd370dfa855a20fc16.webp",
     "static/media/Twitter.webp": "/static/media/Twitter.cff9c1041e1553691741.webp",
     "index.html": "/index.html",
     "static/media/Linkedin.webp": "/static/media/Linkedin.45a9f44e225fe2cee17b.webp",
     "static/media/facebook.webp": "/static/media/facebook.a9f224e741cf5128ae5c.webp",
-    "main.fe2cc23c.css.map": "/static/css/main.fe2cc23c.css.map",
-    "main.0f5ba76a.js.map": "/static/js/main.0f5ba76a.js.map"
+    "main.d2d15580.css.map": "/static/css/main.d2d15580.css.map",
+    "main.824bc513.js.map": "/static/js/main.824bc513.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe2cc23c.css",
-    "static/js/main.0f5ba76a.js"
+    "static/css/main.d2d15580.css",
+    "static/js/main.824bc513.js"
   ]
 }
